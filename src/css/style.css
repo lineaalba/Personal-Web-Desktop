@@ -1,0 +1,10 @@
+body {
+    background-image: url('./desktop.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: rgb(221, 107, 107);
+}
+
+
+
